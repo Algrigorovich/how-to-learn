@@ -1,4 +1,5 @@
 .logo {
-  width: 183px;
+  max-width: 183px;
+  width: 100%;
   height: 32px;
 }

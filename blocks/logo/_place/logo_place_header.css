@@ -3,8 +3,8 @@
   top: 30px;
   left: 64px;
   z-index: 5;
-  transition: filter .3s ease;
+  transition: opacity .3s ease;
 }
 .logo_place_header:hover {
-  filter: contrast(20%);
+  opacity: 0.6);
 }

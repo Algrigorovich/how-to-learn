@@ -2,8 +2,9 @@
   max-width: 270px;
   width: 100%;
   min-height: 38px;
-  transition: filter .3s ease;
+  transition: all .3s ease;
+  padding: 0;
 }
 .resources__logo:hover {
-  filter: contrast(20%);
+  opacity: .7;
 }
